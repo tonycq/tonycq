@@ -24,8 +24,16 @@ Soy un desarrollador web **Front-end**, apasionado por crear interfaces **atract
 
 ## 🎓 Educación
 
+<img src="./4geekspng.png" alt="4Geeks Academy" width="300px">
+
 - **Desarrollador Full Stack**, 4Geeks Academy, Chile  
   Santiago, Chile
+
+<img src="./alura img.ico" alt="Alura" width="100px" height="100px">
+
+- **Desarrollador Front-end**, Alura Latam (Actual)  
+  Actualmente cursando el programa de Desarrollador Front-end.
+
 
 ## 🌐 Idiomas
 - **Español:** Nativo
