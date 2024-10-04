@@ -7,7 +7,7 @@ Soy un desarrollador web **Front-end**, apasionado por crear interfaces **atract
 
 ## 🚀 Proyectos
 
-![Reforestart](./Reforestar-logo.png)
+![Reforestart](./Reforestarlogo.png)
 
 - **Descripción:** Aplicación Web para la reforestación de bosques nativos. 
 - **Rol:** Colaboración en un equipo de 3 en una simulación laboral en NoCountry.
