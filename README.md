@@ -7,13 +7,14 @@ Soy un desarrollador web **Front-end**, apasionado por crear interfaces **atract
 
 ## 🚀 Proyectos
 
-### 🌳 ReforestArt
+![Reforestart](./Reforestar-logo.png)
+
 - **Descripción:** Aplicación Web para la reforestación de bosques nativos. 
 - **Rol:** Colaboración en un equipo de 3 en una simulación laboral en NoCountry.
 - **Tecnologías:** HTML, CSS, Tailwind CSS, JavaScript, React.js, Java, Spring Security, JWT, Git, GitHub.
 - **Fecha:** Septiembre 2024.
 
-### 🌌 Astronap
+![Astronap](./Astronap-logo.png)
 - **Descripción:** Aplicación Web para la compra y venta de astrofotografía.
 - **Rol:** Proyecto final en 4Geeks Academy, con un equipo de 4 estudiantes.
 - **Tecnologías:** HTML, CSS, Bootstrap, JavaScript, React.js, Python, Flask, JWT, SQLite, Git, GitHub.
