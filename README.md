@@ -1,8 +1,8 @@
 
 ![GIF Header](./header.gif)
-# ¡Hola! 👋 Soy un **Desarrollador Front-End**
+# ¡Hola! 👋 Soy un **Desarrollador Full-stack**
 
-Soy un desarrollador web **Front-end**, apasionado por crear interfaces **atractivas**, **interactivas** y optimizadas para la mejor **experiencia del usuario**. He colaborado en proyectos con diversas tecnologías tanto en el **front-end** como en el **back-end**, aunque mi enfoque está en el desarrollo Front-end.
+Soy un desarrollador web **Full-stack**, apasionado por la tecnologia. He colaborado en proyectos con diversas tecnologías tanto en el **front-end** como en el **back-end**
 
 
 ## 🚀 Proyectos
